@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project_ITSoft_V1._0.bus.Address" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEQARCAAAiAAiAkCAAACBAAAAgAAAAGAAAAAAAAiAU=</HashCode>
+      <FileName>bus\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.ConsultantTrainer" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAEgAAAAAAAAAgAKIAAAgAAAAAAAAA=</HashCode>
+      <FileName>bus\ComsultantTrainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.DataCollection" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAEAKAABAAEAAAAFIAAAAACAACAACAAAAACACA=</HashCode>
+      <FileName>bus\DataColletion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.DataValidator" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAgkCAgAAAAAgACAAAAgAgEACEAAAAAIEAAAA=</HashCode>
+      <FileName>bus\DataValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.Date" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAIAAAAAAEAAAEQAAAAAQAAgAAAAAAAAQAQAA=</HashCode>
+      <FileName>bus\Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.Employee" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EwCQAYAQAAAoBgi0iCAAAAgQCAIACIAEAMAICgBhAgI=</HashCode>
+      <FileName>bus\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.FileHandler" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAQAAAgAAgAAIAAAAAAAQAAg=</HashCode>
+      <FileName>bus\FileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.FullTime" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAgEAAAAIAACAAAACAAAAAAAAIAACAA=</HashCode>
+      <FileName>bus\FullTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.Internship" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAEAAAAAAAAAAAgCAAAAAAAACAAAAA=</HashCode>
+      <FileName>bus\Internship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.NameComparator" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>bus\NameComparator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.PartTime" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAgEAAAAAAIgAAAACAAAAAAAgAAAIAA=</HashCode>
+      <FileName>bus\PartTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.Phone" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAgAAAAAAAEAAiAAIgAAAAAAAAAAAAIgAAACgA=</HashCode>
+      <FileName>bus\Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.SequenceID" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bus\SequenceID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_ITSoft_V1._0.bus.SinComparator" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>bus\SinComparator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Project_ITSoft_V1._0.bus.EnumCategory" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>bus\EnumCategory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Project_ITSoft_V1._0.bus.EnumContractType" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>bus\EnumContractType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Project_ITSoft_V1._0.bus.EnumDepartment" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAgAAAAACAAAAAAAAAAAAAAAgAAAAAKA=</HashCode>
+      <FileName>bus\EnumDepartment.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EnumPosition" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAIAACA=</HashCode>
+      <FileName>bus\EnumPosition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

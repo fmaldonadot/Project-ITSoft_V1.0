@@ -1,0 +1,9 @@
+c:\users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\bin\Debug\Project-ITSoft_V1.0.exe.config
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\obj\Debug\Project-ITSoft_V1.0.csprojResolveAssemblyReference.cache
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\obj\Debug\Project-ITSoft_V1.0.csproj.GenerateResource.Cache
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\obj\Debug\Project_ITSoft_V1._0.prod.IT_SoftWinForm.resources
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\bin\Debug\Project-ITSoft_V1.0.exe
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\bin\Debug\Project-ITSoft_V1.0.pdb
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\obj\Debug\Project-ITSoft_V1.0.exe
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\obj\Debug\Project-ITSoft_V1.0.pdb
+C:\Users\fmtchicho\documents\visual studio 2015\Projects\Project-ITSoft_V1.0\obj\Debug\Project_ITSoft_V1._0.Properties.Resources.resources
